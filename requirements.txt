@@ -1,0 +1,16 @@
+flask
+appdirs==1.4.3
+certifi==2018.1.18
+docutils==0.13.1
+packaging==16.8
+pipenv==11.8.0
+Pygments==2.2.0
+pyparsing==2.2.0
+pyTelegramBotAPI==3.6.7
+python-telegram-bot==7.0.1
+openpyxl
+requests==2.13.0
+six==1.10.0
+virtualenv==15.1.0
+virtualenv-clone==0.3.0
+peewee==3.13.3
