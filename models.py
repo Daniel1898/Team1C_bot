@@ -69,5 +69,8 @@ if __name__ == '__main__':
     try:
         dbhandle.connect()
         User.create_table()
+        Test.create_table()
+        TestResult.create_table()
+        UserTests.create_table()
     except InternalError as px:
         print(str(px))
